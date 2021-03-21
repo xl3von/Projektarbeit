@@ -1,5 +1,7 @@
 package mathequiz;
 
-public class Benutzeroberfl‰che {
+public class Benutzeroberfl√§che {
 
 }
+
+hallo
